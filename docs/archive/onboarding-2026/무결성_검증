@@ -1,0 +1,144 @@
+{
+  "original_filename": "2026_최선어학원_온보딩_로그_0922_1102 1.md",
+  "original_bytes": 2459597,
+  "original_sha256": "e3a27e4bf32f2b6cf3b38f03738c4e2a1b1ba99c3b41c7c7c6d245881423fc1e",
+  "concat_sha256": "e3a27e4bf32f2b6cf3b38f03738c4e2a1b1ba99c3b41c7c7c6d245881423fc1e",
+  "parts": [
+    {
+      "part": 1,
+      "filename": "온보딩로그_01_2026-09-22_2026-09-22.md",
+      "period": "2026-09-22",
+      "conversations": 44,
+      "bytes": 148468,
+      "sha256": "2d5fb447ceca38c1795ce3a68d6a17b882dc8cd2949196c512c70614c68a4177"
+    },
+    {
+      "part": 2,
+      "filename": "온보딩로그_02_2026-09-22_2026-09-27.md",
+      "period": "2026-09-22 ~ 2026-09-27",
+      "conversations": 40,
+      "bytes": 151939,
+      "sha256": "4c6ed775fc50a5884ef74e6a113a31ac15d90d47e015ff905d55dc86ce742d30"
+    },
+    {
+      "part": 3,
+      "filename": "온보딩로그_03_2026-09-27_2026-09-29.md",
+      "period": "2026-09-27 ~ 2026-09-29",
+      "conversations": 54,
+      "bytes": 153239,
+      "sha256": "be1c50bda7c6c0089a9cb3d6f514359d265607a04670358544eb30aba13b1fb0"
+    },
+    {
+      "part": 4,
+      "filename": "온보딩로그_04_2026-09-29_2026-10-01.md",
+      "period": "2026-09-29 ~ 2026-10-01",
+      "conversations": 53,
+      "bytes": 152895,
+      "sha256": "7467a6b50a8cf97691e90e793f7c126ac9c98ac82de6ea6492fcf7eb15decd94"
+    },
+    {
+      "part": 5,
+      "filename": "온보딩로그_05_2026-10-01_2026-10-02.md",
+      "period": "2026-10-01 ~ 2026-10-02",
+      "conversations": 49,
+      "bytes": 152097,
+      "sha256": "3f989d5570d0a67f61eebb2d68c0233f6334685483350acd17f099270163ba0a"
+    },
+    {
+      "part": 6,
+      "filename": "온보딩로그_06_2026-10-02_2026-10-03.md",
+      "period": "2026-10-02 ~ 2026-10-03",
+      "conversations": 49,
+      "bytes": 152212,
+      "sha256": "9682cab1630a131e4fbdd60de8474668a6131054e24304974c688d2ec110d9fc"
+    },
+    {
+      "part": 7,
+      "filename": "온보딩로그_07_2026-10-03_2026-10-05.md",
+      "period": "2026-10-03 ~ 2026-10-05",
+      "conversations": 52,
+      "bytes": 154832,
+      "sha256": "c083d1d3dc489a32b7c3ca12b6ffea8c66e4e0872901d42d2b2623af68590b5c"
+    },
+    {
+      "part": 8,
+      "filename": "온보딩로그_08_2026-10-05_2026-10-06.md",
+      "period": "2026-10-05 ~ 2026-10-06",
+      "conversations": 68,
+      "bytes": 153301,
+      "sha256": "a49e9f80d975330e78429e852ec03ff76a8a062b5be5a1da0816e447f2b31e30"
+    },
+    {
+      "part": 9,
+      "filename": "온보딩로그_09_2026-10-06_2026-10-07.md",
+      "period": "2026-10-06 ~ 2026-10-07",
+      "conversations": 47,
+      "bytes": 150248,
+      "sha256": "7e67bf5305ee514315f25fe6810267a39137cfd95a3fa10fe44cec8d7128af00"
+    },
+    {
+      "part": 10,
+      "filename": "온보딩로그_10_2026-10-07_2026-10-08.md",
+      "period": "2026-10-07 ~ 2026-10-08",
+      "conversations": 44,
+      "bytes": 151733,
+      "sha256": "832851a7c11e7eabc52132ff26391a07e619febc8b2ed192677904b41ada4f36"
+    },
+    {
+      "part": 11,
+      "filename": "온보딩로그_11_2026-10-08_2026-10-10.md",
+      "period": "2026-10-08 ~ 2026-10-10",
+      "conversations": 35,
+      "bytes": 151233,
+      "sha256": "cf7a75b8ecf3942587891a976e2fc446723ed622a66e9b8ed52641e58006ae1f"
+    },
+    {
+      "part": 12,
+      "filename": "온보딩로그_12_2026-10-10_2026-10-12.md",
+      "period": "2026-10-10 ~ 2026-10-12",
+      "conversations": 41,
+      "bytes": 154757,
+      "sha256": "e4d9f1d80831f3b8179fb46d85a52d10b9c3eac0afc2fd6d294c2f6cc608e99a"
+    },
+    {
+      "part": 13,
+      "filename": "온보딩로그_13_2026-10-12_2026-10-15.md",
+      "period": "2026-10-12 ~ 2026-10-15",
+      "conversations": 33,
+      "bytes": 152516,
+      "sha256": "87be1d2305f6e96d951748cac5a1bc3814aa72a4dc048870c9a7f4524b05b994"
+    },
+    {
+      "part": 14,
+      "filename": "온보딩로그_14_2026-10-15_2026-10-20.md",
+      "period": "2026-10-15 ~ 2026-10-20",
+      "conversations": 48,
+      "bytes": 154914,
+      "sha256": "ee1c02e588f897252f742e0e90f191fa7067d24538d07b5def272d5309c41c52"
+    },
+    {
+      "part": 15,
+      "filename": "온보딩로그_15_2026-10-20_2026-10-23.md",
+      "period": "2026-10-20 ~ 2026-10-23",
+      "conversations": 49,
+      "bytes": 154975,
+      "sha256": "eb56d9bf2114cc5d1069524fc1f7c1e9b175b7e4878d7ad7b7771a30c24188c6"
+    },
+    {
+      "part": 16,
+      "filename": "온보딩로그_16_2026-10-23_2026-10-26.md",
+      "period": "2026-10-23 ~ 2026-10-26",
+      "conversations": 45,
+      "bytes": 154549,
+      "sha256": "87826eb799c8b01fb8debc30bf6d0a3f4cdc4df066f427dc781116a625622f47"
+    },
+    {
+      "part": 17,
+      "filename": "온보딩로그_17_2026-10-26_2026-11-02.md",
+      "period": "2026-10-26 ~ 2026-11-02",
+      "conversations": 7,
+      "bytes": 15689,
+      "sha256": "4dbb91a5540ae447a68a6e6daecbfd1257534b20949fe24681ba018d531cd41f"
+    }
+  ]
+}
